@@ -1,0 +1,15 @@
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/bin/Debug/net6.0/DZ2
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/bin/Debug/net6.0/DZ2.deps.json
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/bin/Debug/net6.0/DZ2.runtimeconfig.json
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/bin/Debug/net6.0/DZ2.dll
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/bin/Debug/net6.0/DZ2.pdb
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/DZ2.csproj.AssemblyReference.cache
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/DZ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/DZ2.AssemblyInfoInputs.cache
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/DZ2.AssemblyInfo.cs
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/DZ2.csproj.CoreCompileInputs.cache
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/DZ2.dll
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/refint/DZ2.dll
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/DZ2.pdb
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/DZ2.genruntimeconfig.cache
+/Users/vadim/Desktop/SEMINAR_1/seminar1/DZ2/obj/Debug/net6.0/ref/DZ2.dll
