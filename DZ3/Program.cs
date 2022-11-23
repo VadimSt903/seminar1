@@ -10,6 +10,4 @@ int num1 = Convert.ToInt32 (value: Console.ReadLine());
     else 
 {
     Console.WriteLine("Нет");
-    
 }
-    
